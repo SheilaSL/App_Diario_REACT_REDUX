@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/App_Diario_REACT_REDUX/static/css/main.9c083248.chunk.css",
+    "main.js": "/App_Diario_REACT_REDUX/static/js/main.7705a215.chunk.js",
+    "main.js.map": "/App_Diario_REACT_REDUX/static/js/main.7705a215.chunk.js.map",
+    "runtime-main.js": "/App_Diario_REACT_REDUX/static/js/runtime-main.cc952372.js",
+    "runtime-main.js.map": "/App_Diario_REACT_REDUX/static/js/runtime-main.cc952372.js.map",
+    "static/js/2.9ef3e043.chunk.js": "/App_Diario_REACT_REDUX/static/js/2.9ef3e043.chunk.js",
+    "static/js/2.9ef3e043.chunk.js.map": "/App_Diario_REACT_REDUX/static/js/2.9ef3e043.chunk.js.map",
+    "index.html": "/App_Diario_REACT_REDUX/index.html",
+    "precache-manifest.a473e2592e964045cc5397162252b687.js": "/App_Diario_REACT_REDUX/precache-manifest.a473e2592e964045cc5397162252b687.js",
+    "service-worker.js": "/App_Diario_REACT_REDUX/service-worker.js",
+    "static/css/main.9c083248.chunk.css.map": "/App_Diario_REACT_REDUX/static/css/main.9c083248.chunk.css.map",
+    "static/js/2.9ef3e043.chunk.js.LICENSE.txt": "/App_Diario_REACT_REDUX/static/js/2.9ef3e043.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc952372.js",
+    "static/js/2.9ef3e043.chunk.js",
+    "static/css/main.9c083248.chunk.css",
+    "static/js/main.7705a215.chunk.js"
+  ]
+}
